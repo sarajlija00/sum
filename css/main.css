@@ -1,0 +1,18 @@
+.body {
+    background-image: url("../images/matematika.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.result {
+    background-color: white;
+    margin-top: 10px;
+}
+.center {
+    margin-left: 50%;
+}
+.sum {
+    width: 174px;
+}
+.top {
+    margin-top: 150px;
+}
