@@ -3,8 +3,8 @@ function sum (){
     let numberTwo = document.getElementById ('broj2').value;
     document.getElementById ('broj1').value ="";
     document.getElementById ('broj2').value ="";
-    let a = JSON.parse (numberOne);
-    let b = JSON.parse (numberTwo);
+    let a = Number (numberOne);
+    let b = Number (numberTwo);
     document.getElementById ('result').innerText = a+b;
 
 
